@@ -1,7 +1,7 @@
 # amp-email-support
 Amp ESP and Client Support
 
-ESP (June 7th 2018)
+ESP (June 7th 2019)
 <br><br>
 • Sparkpost<br>
 • Sendgrid<br>
@@ -16,7 +16,7 @@ ESP's proposing to work on
 • Klaviyo (Late 2019)<br>
 • Pure360 (2020)<br>
 
-<br><br><br>
+<br><br>
 Email Client Support (June 7th 2019)<br><br>
 
 • Gmail - Webmail<br><br>
