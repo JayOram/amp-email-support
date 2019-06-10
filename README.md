@@ -4,7 +4,7 @@ Amp ESP and Client Support
 ESP (June 7th 2019)
 <br><br>
 • Sparkpost<br>
-• Sendgrid<br>
+• Sendgrid (via API - not marketing emails)<br>
 • Mailgun (via API)<br>
 • Amazon SES<br>
 • eSputnik<br>
