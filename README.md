@@ -28,4 +28,9 @@ Email Client Support (Reported Coming Soon)<br><br>
 • Outlook.com <br>
 • Yahoo Mail (Could be AOL as well as they are essentially the same now?) <br>
 <br>
+Email Editors
+<br>
+• Taxi for Email
+• Stripo (editor support for basic layout and Carousel - more coming soon)
+<br>
 If you know any more or want to have your ESP/Client listed or have more information - drop me an email - jay.oram@actionrocket.co or DM me on emailgeeks slack :-) 
