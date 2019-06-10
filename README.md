@@ -30,7 +30,7 @@ Email Client Support (Reported Coming Soon)<br><br>
 <br>
 Email Editors
 <br>
-• Taxi for Email
-• Stripo (editor support for basic layout and Carousel - more coming soon)
+• Taxi for Email<br>
+• Stripo (editor support for basic layout and Carousel - more coming soon)<br>
 <br>
 If you know any more or want to have your ESP/Client listed or have more information - drop me an email - jay.oram@actionrocket.co or DM me on emailgeeks slack :-) 
