@@ -17,14 +17,14 @@ ESP's proposing to work on
 • Pure360 (2020)<br>
 
 <br><br>
-Email Client Support (June 7th 2019)<br><br>
+Email Client Support (June 27th 2019)<br><br>
 
-• Gmail - Webmail<br><br>
+• Gmail - Webmail<br>
+• <a href="https://postmaster.mail.ru/amp">Mail.ru</a><br><br> 
 
 Email Client Support (Reported Coming Soon)<br><br>
 
 • Gmail App<br>
-• Mail.ru<br>
 • Outlook.com <br>
 • Yahoo Mail (Could be AOL as well as they are essentially the same now?) <br>
 <br>
