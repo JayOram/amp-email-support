@@ -8,6 +8,7 @@ ESP (June 7th 2019)
 • Mailgun (via API)<br>
 • Amazon SES<br>
 • eSputnik<br>
+• <a href="https://blog.aweber.com/email-marketing/aweber-supports-amp-for-email.htm">Aweber</a><br>
 <br><br>
 ESP's proposing to work on
 <br><br>
