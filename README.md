@@ -1,9 +1,10 @@
 # amp-email-support
 Amp ESP and Client Support
 
-ESP (June 7th 2019)
+ESP (July 19th 2019)
 <br><br>
 • Sparkpost<br>
+• Aweber<br>
 • Sendgrid (via API - not marketing emails)<br>
 • Mailgun (via API)<br>
 • Amazon SES<br>
@@ -18,9 +19,10 @@ ESP's proposing to work on
 • Pure360 (2020)<br>
 
 <br><br>
-Email Client Support (June 27th 2019)<br><br>
+Email Client Support (July 19th 2019)<br><br>
 
 • Gmail - Webmail<br>
+• Gsuite <br>
 • <a href="https://postmaster.mail.ru/amp">Mail.ru</a><br><br> 
 
 Email Client Support (Reported Coming Soon)<br><br>
