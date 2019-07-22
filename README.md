@@ -4,17 +4,16 @@ Amp ESP and Client Support
 ESP (July 19th 2019)
 <br><br>
 • Sparkpost<br>
-• Aweber<br>
 • Sendgrid (via API - not marketing emails)<br>
 • Mailgun (via API)<br>
 • Amazon SES<br>
 • eSputnik<br>
 • <a href="https://blog.aweber.com/email-marketing/aweber-supports-amp-for-email.htm">Aweber</a><br>
+• Clang<br>
 <br><br>
 ESP's proposing to work on
 <br><br>
 • MAPP (Late 2019)<br>
-• Clang (Q3/beginning Q4 2019)<br>
 • Klaviyo (Late 2019)<br>
 • Pure360 (2020)<br>
 
